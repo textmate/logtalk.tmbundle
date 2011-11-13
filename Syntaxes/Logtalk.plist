@@ -6,10 +6,6 @@
 	<array>
 		<string>lgt</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>(/\*|:-\s+(if|object|protocol|category)(?=[(]))</string>
-	<key>foldingStopMarker</key>
-	<string>(\*/|:-\s+(endif|end_(object|protocol|category))(?=[.]))</string>
 	<key>keyEquivalent</key>
 	<string>^~L</string>
 	<key>name</key>
