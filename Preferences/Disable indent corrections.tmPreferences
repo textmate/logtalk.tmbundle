@@ -3,17 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Folding</string>
+	<string>Disable indent corrections</string>
 	<key>scope</key>
 	<string>source.logtalk</string>
 	<key>settings</key>
 	<dict>
-		<key>foldingStartMarker</key>
-		<string>(/\*|:-\s+(if|object|protocol|category)(?=[(]))</string>
-		<key>foldingStopMarker</key>
-		<string>(\*/|:-\s+(endif|end_(object|protocol|category))(?=[.]))</string>
+		<key>disableIndentCorrections</key>
+		<true/>
 	</dict>
 	<key>uuid</key>
-	<string>8B821B39-5F6B-4D3A-9A34-FD4302CACB28</string>
+	<string>BB7D9FF7-6CFA-4609-9146-A5E7714358EC</string>
 </dict>
 </plist>
