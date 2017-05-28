@@ -455,7 +455,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>\b(0b[0-1]+|0o[0-7]+|0x\h+)\b</string>
+			<string>\b(0b[0-1]+|0o[0-7]+|0x[0-9A-Fa-f]+)\b</string>
 			<key>name</key>
 			<string>constant.numeric.logtalk</string>
 		</dict>
